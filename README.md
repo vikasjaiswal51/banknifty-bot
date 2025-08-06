@@ -1,1 +1,0 @@
-# banknifty-bot
